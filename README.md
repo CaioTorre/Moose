@@ -1,2 +1,2 @@
 # Moose
-Maze-solving scripts in Python3
+Open source maze-solving scripts written in Python3
